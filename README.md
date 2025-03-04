@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @whittai
-- 👀 I’m interested in software engineering, web development and all things IT.
-- 🌱 I’m currently learning about anything I can
+- 👀 Senior Software Developer
 <!--- - 💞️ I’m looking to collaborate on --->
 <!--- - 📫 How to reach me --->
 
